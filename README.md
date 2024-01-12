@@ -32,7 +32,7 @@ I'm a full-stack developer transitioning from a career in television broadcast a
 ---
 
 ### 📈 Stats 
-[![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikoauer_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)       
+[![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikoauer&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)       
           
           
           
