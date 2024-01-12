@@ -29,12 +29,7 @@ I'm a full-stack developer transitioning from a career in television broadcast a
 <img align="left" alt="html" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="html" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
----
 
-### 📈 Stats 
-[![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikoauer&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)       
-          
-          
           
           
           
