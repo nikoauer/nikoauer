@@ -1,6 +1,6 @@
 # Niko Auer 👋🏾
 
-![Header]([./github-header-image.png])
+![Header](./github-header-image.png)
 
 I'm a full-stack developer transitioning from a career in television broadcast and photography. I am passionate about programming and especially that satisfying uh-huh moment you get with all the problem solving that comes with developing a challenging project.
 
@@ -32,7 +32,7 @@ I'm a full-stack developer transitioning from a career in television broadcast a
 ---
 
 ### 📈 Stats 
-[![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikoauer)](https://github.com/anuraghazra/github-readme-stats)       
+[![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikoauer_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)       
           
           
           
